@@ -10,17 +10,17 @@ Create a registration page for a fictional event (e.g., "The Galactic Coding Sum
 ### 🏗️ Requirements (The "Must-Haves")
 To pass the automated grader, your index.html must include:
 
-Semantic Containers: Use <header>, <main>, and <footer> to wrap your content.
+Semantic Containers: Use `<header>`, `<main>`, and `<footer>` to wrap your content.
 
-The Form Element: A <form> tag that contains all your inputs.
+The Form Element: A `<form>` tag that contains all your inputs.
 
-Required Email Input: An <input> with type="email" that has the required attribute.
+Required Email Input: An `<input>` with type="email" that has the required attribute.
 
-T-Shirt Selection: A <select> dropdown menu containing at least 3 sizes (S, M, L).
+T-Shirt Selection: A `<select>` dropdown menu containing at least 3 sizes (S, M, L).
 
-Multi-line Comments: A <textarea> where users can write their "dietary requirements."
+Multi-line Comments: A `<textarea>` where users can write their "dietary requirements."
 
-The Submit Button: A <button> with type="submit" to finalize the registration.
+The Submit Button: A `<button>` with type="submit" to finalize the registration.
 
 ### 🛠️ Step-by-Step Instructions
 #### Step 1: Sync Your Repo
